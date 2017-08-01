@@ -9,7 +9,7 @@ iOS 集成广点通移动 App 激活数据统计 API 上报方案 Demo
 
 ## 详细介绍
 
-参见：[http://www.eyrefree.org/2016/02/18/2016-02-18-iOS-GuangDianTong/](http://www.eyrefree.org/2016/02/18/2016-02-18-iOS-GuangDianTong/)
+参见：[http://www.jianshu.com/p/b14456625a59](http://www.jianshu.com/p/b14456625a59)
 
 ## 作者
 
